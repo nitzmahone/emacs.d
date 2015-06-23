@@ -10,3 +10,6 @@
 #[submodule "scala-mode2"]
 #	path = scala-mode2
 #	url = git://github.com/hvesalai/scala-mode2.git
+[submodule "git-link"]
+	path = git-link
+	url = https://github.com/sshaw/git-link.git
